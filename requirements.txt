@@ -1,0 +1,7 @@
+flask==3.0.0
+opencv-python==4.8.0
+numpy==1.24.3
+pillow==10.0.0
+hailo-tappas==1.2.0
+requests==2.31.0
+hailo-tappas-utils==1.2.0
